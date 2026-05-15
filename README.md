@@ -24,11 +24,7 @@
 
 ###
 
-<br clear="both">
 
-<img align="right" height="203" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1N3M5N25sYmpsYmptMWdvbzdxaHRyY3kydDRwd2J6enE3ZjY5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPqOo4mSdbXQEhpkMI/giphy.gif"  />
-
-<br clear="both">
 
 
 
@@ -38,6 +34,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<br clear="both">
+
+<img align="right" height="203" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1N3M5N25sYmpsYmptMWdvbzdxaHRyY3kydDRwd2J6enE3ZjY5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPqOo4mSdbXQEhpkMI/giphy.gif"  />
+
+<br clear="both">
 ###
 
 
