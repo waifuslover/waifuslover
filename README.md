@@ -28,6 +28,8 @@
 
 <img align="right" height="203" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1N3M5N25sYmpsYmptMWdvbzdxaHRyY3kydDRwd2J6enE3ZjY5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPqOo4mSdbXQEhpkMI/giphy.gif"  />
 
+<br clear="both">
+<br clear="both">
 ###
 
 <div align="left">
